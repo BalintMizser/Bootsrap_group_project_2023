@@ -1,6 +1,7 @@
 body{
     font-size: medium;
 }
-img{
+.navbar-brand img{
     border-radius: 50%;
 }
+
