@@ -8,3 +8,7 @@ Idézetek Kathi Bélától hogy híres legyen ő is meg mi is
 Vásárlási lehetőség:
 filmek nézésére
 adományozási lehetőség
+GOAT - filmek, styles.css
+Bendegúz - kezdőlap, elérhetőség
+Bálint - Jegyfoglalás, pénztár
+
