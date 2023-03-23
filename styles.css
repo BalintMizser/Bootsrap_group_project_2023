@@ -1,7 +1,43 @@
-body{
+body {
     font-size: medium;
 }
-.navbar-brand img{
+
+.navbar-brand img {
     border-radius: 50%;
 }
 
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    transition: transform 0.2s;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+.card-title {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #777;
+}
+
+
+.modal-body {
+    position: relative;
+    padding: 0;
+}
+
+iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
