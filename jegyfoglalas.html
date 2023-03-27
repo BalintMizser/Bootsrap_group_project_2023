@@ -47,15 +47,19 @@
     
     <h1>Jegyvásárlás</h1>
     <p>Foglalj helyet a világ legjobb exklúzív mozijába ahol brutál filmek a nap 24 órájában akadály nélkül!</p>
-    <p>Törj át a falakon és vásárolj nálunk</p>
+    <p style="font-size:30px; font-weight: bolder; color: brown;">Törj át a falakon és vásárolj nálunk!</p>
+    <form id="forma" class="row g-5">
+      <!-- Ezt hogyan tudom bele rakni egy carousel félébe -->
     <div class="m-5" id="helyek">
-      <div class="">
       <img src="ulohely.png" alt="Foglalj helyet!">
-        <div class="col-1">
-          <input type="text" class="form-control" placeholder="Hol szeretne ülni?" aria-label="Hol szeretne ülni?">
-        </div>
-      </div>
+      <div  class="col-2" id="label1">
+        <label for="validationCustom01" class="form-label"></label>
+        <input type="text" class="form-control" placeholder="Hol szeretne ülni?" required> <!-- Nem tudom leokezni -->
+        <div class="invalid-feedback">Kérem a mezőt töltse ki!!!</div> <!-- Nem jeleniti meg, ha üres a mezo akkor is átugrik -->
     </div>
+    <a href="#" class="next" id="link_next">Tovább</a>
+    </div>
+  </form>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"

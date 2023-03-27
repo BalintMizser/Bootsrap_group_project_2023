@@ -11,4 +11,3 @@ adományozási lehetőség
 GOAT - filmek, styles.css
 Bendegúz - kezdőlap, elérhetőség
 Bálint - Jegyfoglalás, pénztár
-

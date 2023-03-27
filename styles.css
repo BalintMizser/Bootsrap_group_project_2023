@@ -49,5 +49,22 @@ iframe {
 
 #asd1{
     background-color: azure;
->>>>>>> 8dbc6e0dc193a172148c2890a66fdcacfd63fb9b
+}
+#link_next{
+    color: #FFA;
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 20%;
+    background-color:limegreen;
+}
+#link_next:hover{
+color:darkblue  ;
+}
+#forma{
+    text-align: center;
+    border-style: hidden;
+}
+#label1{
+    margin: auto;
+    margin-bottom: 20px;
 }
