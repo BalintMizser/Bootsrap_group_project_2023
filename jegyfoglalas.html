@@ -49,23 +49,27 @@
     <p>Foglalj helyet a világ legjobb exklúzív mozijába ahol brutál filmek a nap 24 órájában akadály nélkül!</p>
     <p style="font-size:30px; font-weight: bolder; color: brown;">Törj át a falakon és vásárolj nálunk!</p>
     <form id="forma" class="row g-5">
+      <img class="img-fruit" src="ulohely.png" alt="Foglalj helyet!">
     <div class="m-5" id="helyek">
-      <img src="ulohely.png" alt="Foglalj helyet!">
-      <div  class="col-2" id="label1">
+      <div  class="col-md-2" id="label1">
         <label style="margin-top: 20px;" for="validationCustom01" class="form-label">Hol szeretne ülni?</label>
         <input style="margin-bottom: 15px;" type="text" class="form-control" placeholder="pl.: 2/8" required>
-        <div class="invalid-feedback">Kérem a mezőt töltse ki!!!</div>
-      </div  id="jegyvasarlas">
+      </div>
       <a href="#jegyvasarlas" class="next" id="link_next">Tovább</a>
     </div>
   </form>
+  <form>
+    <label for="validationCustom01" class="form-label">Melyik filmet szeretné megnézni?</label>
+    <input style="margin-bottom: 15px;" type="text" class="form-control" placeholder="pl.: Rocky">
+  </form>
+  </div>
   <div class="dropdown">
     <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-      Hol szeretne fizetni?
+      Hogyan szeretne fizetni?
     </button>
     <ul class="dropdown-menu">
       <li><a class="dropdown-item" href="jegyfoglalas2.html">Offline</a></li>
-      <li><a class="dropdown-item" href="#">Online</a></li>
+      <li><a class="dropdown-item" href="jegyfoglalas3.html">Online</a></li>
     </ul>
   </div>
 
