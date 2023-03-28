@@ -74,3 +74,12 @@ iframe {
 #link_previous:hover{
     color: pink;
 }
+
+h1 {
+    font-size: 36px; /* set font size */
+    font-weight: bold; /* set font weight to bold */
+    text-align: center; /* center align text */
+    color: #333; /* set font color */
+    margin-top: 20px; /* add top margin */
+    margin-bottom: 10px; /* add bottom margin */
+  }
