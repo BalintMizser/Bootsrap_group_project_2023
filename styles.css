@@ -49,8 +49,7 @@ iframe {
 #asd1 {
     background-color: azure;
 }
-<<<<<<< HEAD
-=======
+
 
 #link_next {
     color: #FFA;
@@ -68,7 +67,7 @@ iframe {
     text-align: center;
     border-style: hidden;
 }
->>>>>>> f9c589b26ff40bf032e1d81e7beb79768d751e1a
+
 #label1{
     margin: auto;
     margin-bottom: 20px;
@@ -86,7 +85,6 @@ iframe {
 }
 
 h1 {
-<<<<<<< HEAD
     font-size: 36px; /* set font size */
     font-weight: bold; /* set font weight to bold */
     text-align: center; /* center align text */
@@ -96,7 +94,6 @@ h1 {
   }
 #helyek{
     text-align: center;
-=======
     font-size: 36px;
     /* set font size */
     font-weight: bold;
@@ -109,5 +106,5 @@ h1 {
     /* add top margin */
     margin-bottom: 10px;
     /* add bottom margin */
->>>>>>> f9c589b26ff40bf032e1d81e7beb79768d751e1a
+
 }
