@@ -1,14 +1,13 @@
 body {
-    font-size: medium;
+    font-size: medium;;
 }
 
 .navbar-brand img {
     border-radius: 50%;
 }
 
-HEAD
-#helyek{
-   text-align: center; 
+HEAD #helyek {
+    text-align: center;
 }
 
 .card {
@@ -47,39 +46,53 @@ iframe {
     height: 100%;
 }
 
-#asd1{
+#asd1 {
     background-color: azure;
 }
-#link_next{
+
+#link_next {
     color: #FFA;
     display: inline-block;
     padding: 8px 16px;
     border-radius: 20%;
-    background-color:limegreen;
+    background-color: limegreen;
 }
-#link_next:hover{
-    color:darkblue  ;
+
+#link_next:hover {
+    color: darkblue;
     transform: scale(1.3);
+}
+#forma{
+    text-align: center;
+    border-style: hidden;
 }
 #label1{
     margin: auto;
     margin-bottom: 20px;
 }
-#link_previous{
+
+#link_previous {
     color: #FFA;
     display: inline-block;
     padding: 8px 16px;
-    background-color:limegreen;
+    background-color: limegreen;
 }
-#link_previous:hover{
+
+#link_previous:hover {
     color: pink;
 }
 
 h1 {
-    font-size: 36px; /* set font size */
-    font-weight: bold; /* set font weight to bold */
-    text-align: center; /* center align text */
-    color: #333; /* set font color */
-    margin-top: 20px; /* add top margin */
-    margin-bottom: 10px; /* add bottom margin */
-  }
+    font-size: 36px;
+    /* set font size */
+    font-weight: bold;
+    /* set font weight to bold */
+    text-align: center;
+    /* center align text */
+    color: #333;
+    /* set font color */
+    margin-top: 20px;
+    /* add top margin */
+    margin-bottom: 10px;
+    /* add bottom margin */
+}
