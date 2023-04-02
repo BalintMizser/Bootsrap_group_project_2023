@@ -2,7 +2,7 @@ body{
     font-size: medium;
 }
 #bodyy{
-    margin-left: 20px;
+    margin-left: 25px;
 
 }
 
@@ -106,7 +106,16 @@ h1 {
     /* add bottom margin */
 
 }
+
 .responsive {
     width: 80%;
     height: auto;
-  }
+}
+
+th{
+    width: 15%;
+}
+
+td{
+    width: 15%;
+}
