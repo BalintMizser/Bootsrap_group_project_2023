@@ -178,3 +178,7 @@ img {
     background-color: #c82333;
     border-color: #bd2130;
   }
+
+  .table-responsive{
+    width: 100%;
+  }
