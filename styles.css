@@ -77,12 +77,12 @@ body{
 }
 
 h1 {
-    font-size: 36px; /* set font size */
-    font-weight: bold; /* set font weight to bold */
-    text-align: center; /* center align text */
-    color: #333; /* set font color */
-    margin-top: 20px; /* add top margin */
-    margin-bottom: 10px; /* add bottom margin */
+    font-size: 36px; 
+    font-weight: bold; 
+    text-align: center; 
+    color: #333; 
+    margin-top: 20px; 
+    margin-bottom: 10px; 
   }
 #helyek{
     
@@ -120,8 +120,7 @@ img {
 .img-fluid-mb-4 {
     margin-top: 20px;
 }
-  
-  /* Style movie details */
+
   h3 {
     font-size: 36px;
   }
@@ -139,7 +138,6 @@ img {
     margin-bottom: 10px;
   }
   
-  /* Style trailer video */
   .embed-responsive {
     position: relative;
     display: block;
@@ -167,7 +165,6 @@ img {
     border: 0;
   }
   
-  /* Style IMDb button */
   .btn-primary {
     background-color: #dc3545;
     border-color: #dc3545;
